@@ -1,0 +1,1 @@
+const String Basuri = 'http://gateway.marvel.com/v1/public/characters?ts=1&apikey=e98533bfd88e78fa5ffc511249baa7c0&hash=28379fe5851b2a60e37e2cf7f7e16fd1';
